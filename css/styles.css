@@ -1,0 +1,13 @@
+body {
+    font-family: 'Inter', sans-serif;
+    color: #F7FEF7;
+    background-color: #7E7365;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
