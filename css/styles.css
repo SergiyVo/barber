@@ -80,7 +80,7 @@ img {
 .hero-section {
     /*padding: 72px 0;*/
     padding-bottom: 92px;
-    background-image: linear-gradient(rgba(46, 47, 66, 0.70), rgba(46, 47, 66, 0.70)), url(../images/Hero.jpg);
+    background-image: /*linear-gradient(rgba(46, 47, 66, 0.70), rgba(46, 47, 66, 0.70)), */ url(../images/Hero.jpg);
     /*max-width: 320px;*/
     width: 100%;
     height: 700px;
