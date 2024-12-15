@@ -41,6 +41,7 @@ img {
     /*outline: 3px solid red;*/
     margin-left: 72px;
     margin-right: 72px;
+    margin-top: 100px;
 }
 
 
@@ -165,10 +166,45 @@ img {
     font-weight: 400;
     font-size: 16px;
     line-height: 200%;
-
 }
 
 .foto {
     width: 196px;
     height: 172px;
+}
+
+.powerful {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 70px;
+    column-gap: 134px;
+}
+
+.powerful-list {
+    width: 342px;
+    height: 152px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.powerful-text {
+    width: 342px;
+    height: 83px;
+    text-align: center;
+    padding-top: 12px;
+}
+
+.container-dark {
+    background-color: #3F3A31 ;
+}
+
+.powerful-arguments {
+    padding-top: 40px;
+    padding-bottom: 70px;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 130%;
+    text-align: center;
 }
