@@ -298,3 +298,72 @@ tbody {
     font-size: 14px;
     line-height: 143%;
 }
+
+.reviews {
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 130%;
+    text-align: center;
+    padding-bottom: 24px;
+}
+
+.reviews-text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 200%;
+    text-align: center;
+    width: 656px;
+    height: 60px;
+    margin:auto;
+    margin-bottom: 24px;
+}
+
+.container-all {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 24px;
+    justify-content: center;
+}
+
+.container-reviews {
+    width: 306px;
+    height: 441px;
+    background-color: rgba(63, 58, 49, 0.32);
+
+}
+
+.foto-reviews {
+    margin-top: 18px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.star {
+    margin-top: 26px;
+    margin-left: 58px;
+    margin-right: 58px;
+    margin-bottom: 18px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center;
+    gap: 8px;
+}
+
+.name-reviews {
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 200%;
+    text-align: center;
+    margin-bottom: 16px;
+}
+
+.name-reviews-text {
+    width: 278px;
+    height: 188px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 200%;
+    text-align: center;
+    margin-left: 14px;
+    margin-right: 14px;
+}
