@@ -73,7 +73,8 @@ img {
 }
 
 .header-link:hover {
-    text-shadow: 0px 0px 1px #F7FEF7;
+    color: #F0BF69;
+    text-shadow: 0px 0px 1px #F0BF69;
 }
 
 
@@ -119,6 +120,11 @@ img {
     text-align: center;
     background-color: #E6C996;
     border: none;
+}
+
+.button-hero:hover {
+    background-color: #F0BF69;
+    cursor: pointer;
 }
 
 .container-button {
